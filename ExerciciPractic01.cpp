@@ -41,6 +41,7 @@ int main() {
 		}
 	}
 	delete[] elMeuVector;
+	return 0;
 }
 
 
